@@ -1,0 +1,8 @@
+.block {
+  display: inline-block;
+  width: 100px;
+  border: 1px solid hotpink;
+}
+.container {
+  width: 543px;
+}
